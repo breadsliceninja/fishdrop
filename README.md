@@ -21,3 +21,8 @@ Even faster-paced 2D platformer, this time with a horizontal DASH.
 - Press K to DASH (vertical momentum is conserved after DASH)
 - Hold direction into wall to WALL SLIDE
 - Press J while WALL SLIDING to WALL JUMP (gives horizontal momentum away from wall)
+
+### Running
+Download and run the Mac binary `dash_counter.app`.
+
+Probably also possible to open the project in the Unity Editor and build from there.
