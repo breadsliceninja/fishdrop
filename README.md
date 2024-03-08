@@ -1,4 +1,4 @@
-# Bodhi's Game Prototypes
+# Platformer Prototypes
 Various prototypes for 2D platformers, including:
 
 ## Fishdrop
