@@ -14,6 +14,8 @@ Fast-paced 2D platformer focused on momentum and simple controls (just one actio
 ## Dash Counter
 Even faster-paced 2D platformer, this time with a horizontal DASH.
 
+![dash counter](dash_counter/screenshot.png)
+
 ### Controls
 - WASD to MOVE
 - Press J while grounded to JUMP
