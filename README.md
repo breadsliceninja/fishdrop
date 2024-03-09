@@ -4,6 +4,8 @@ Various prototypes for 2D platformers, including:
 ## Fishdrop
 Fast-paced 2D platformer focused on momentum and simple controls (just one action button!).
 
+![dash counter](fishdrop/fishdrop.png)
+
 ### Controls
 - ARROW KEYS to MOVE
 - Hold SPACE while grounded to CROUCH
