@@ -2,7 +2,9 @@
 Various prototypes for 2D platformers, including:
 
 ## Fishdrop
-Fast-paced 2D platformer focused on momentum and simple controls (just one action button!). Built in Godot using GDScript.
+Fast-paced 2D platformer focused on momentum and simple controls (just one action button!).
+
+Built in Godot using GDScript.
 
 ![dash counter](fishdrop/fishdrop.png)
 
@@ -13,8 +15,13 @@ Fast-paced 2D platformer focused on momentum and simple controls (just one actio
 - While CROUCHING/SLIDING, let go of SPACE to JUMP
 - Hold SPACE while airborne to drop down
 
+### Running
+Download and run the Windows and/or Linux binaries, `fishdrop.exe` and `fishdrop.x86_64` respectively.
+
 ## Dash Counter
-Even faster-paced 2D platformer, this time with a horizontal DASH. Built in Unity using C#.
+Even faster-paced 2D platformer, this time with a horizontal DASH.
+
+Built in Unity using C#.
 
 ![dash counter](dash_counter/screenshot.png)
 
